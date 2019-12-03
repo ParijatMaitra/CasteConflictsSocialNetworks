@@ -8,7 +8,7 @@ The REDS data were collected by the National Council for Applied Economic Resear
 The SEPRI data were collected by the Institute for Rural Management, Anand (IRMA), India, in collaboration with the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) and the World Bank. 
 
 
-The survey was carried out in 13 Indian states.
+The surveys were carried out in 17 Indian states & covered 120,000+ households.
 
 Work in progress...
 
