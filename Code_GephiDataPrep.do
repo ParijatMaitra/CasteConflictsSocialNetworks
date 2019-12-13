@@ -195,6 +195,8 @@ save gephinbr, replace
 * Converting them to csv format so that they can be read by Gephi
 * In Gephi I extracted the Betweenness centrality & Eigenvector centrality measures for the full sample & linked those values to the original casteIDs.
 
+clear
+use gephi1
 export delimited using "C:\Users\Parijat\Desktop\Gephi\gephi1", replace
 clear
 use gephimon
