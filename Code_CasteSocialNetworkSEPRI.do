@@ -1,7 +1,7 @@
 // Caste & Social Networks //
 
 // Data sources - RURAL ECONOMIC AND DEMOGRAPHIC SURVEY(REDS) 2006 & SOCIO-ECONOMIC PROFILES OF RURAL HOUSEHOLDS IN INDIA(SEPRI 1 & 2)//
-// Survey was carried out in 13 Indian states.//
+// Survey was carried out in 17 Indian states.//
 
 
 // Author: PARIJAT MAITRA //
