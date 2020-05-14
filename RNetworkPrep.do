@@ -34,7 +34,7 @@ keep villageid UniqueID Node caste scst
 save Node
 
 * There are 240 villages in the sample.
-* Since the village level networks exist in isolation(not linked to other villlages in the sample)
+* Since the village level networks exist in isolation(not linked to other villages in the sample)
 * I had to split the sample(both edgelist & nodelist) into 240 subsamples.
 * The following algorithm was used for this purpose.
 
